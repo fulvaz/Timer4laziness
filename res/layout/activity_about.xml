@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+ <ScrollView             
+           android:layout_width="fill_parent"
+           android:layout_height="fill_parent"
+           android:fadingEdge="none">
+           
+    <TextView 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:textSize="16sp"
+        android:lineSpacingExtra="3dp"
+        android:text="为什么想做这个APP?\n
+考研的时候就好想来一个,现在总算给自己填好了坑\n\n
+APP作用是啥?\n
+记录下你每天的工作时间,每天去看看,大概貌似应该就不会偷懒了吧\n\n
+真的有用吗?我是懒癌晚期哦\n
+嗯.我就老实跟你说,很可能没救(快跑)\n\n
+为啥界面是英文?\n
+忙着玩PS4(索尼大法好),随便写个单词凑合,反正你们也能看懂的啦\n\n
+说好的晒命功能呢?\n
+哎哟,申请个接口微信要审批,微博也要审批,况且我这个破APP想作弊太简单啦,还晒个毛线,主要原因是我买游戏没钱买服务器了\n\n
+
+微信:fulvaz\n
+邮箱:fulvaz@sina.com\n
+版本:0.1Beta (不会有1.0的啦!)\n\n
+有bug就和我说声吧,我会视乎心情好坏修复(快跑)\n\n
+PS:bug应该有很多呢~ Orz 因为我最近在忙着玩PS4(索尼大法好),没认真测试呀\n\n
+PS2:千万千万不要修改系统日期,会被当作作弊哟 \n\n\n
+话说上面这段文字逼死强迫症了吗? 
+"
+/>           
+ </ScrollView>
+    
+
+    
+
+</LinearLayout>

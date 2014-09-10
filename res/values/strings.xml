@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Timer33_bakup</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="before_start">Start</string>
+    <string name="when_start">Stop</string>
+    <string name="action_iorecords">What I Did Today</string>
+    <string name="action_dayrecords">History</string>
+    <string name="nothing">&quot;Nothing found! \n Go to work and come back later.&quot;</string>
+
+</resources>

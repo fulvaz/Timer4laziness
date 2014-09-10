@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="tk.fulvaz.timer33.MainActivity" >
+
+    <item
+        android:id="@+id/action_history"
+        android:title="@string/action_dayrecords"
+        android:orderInCategory="100">
+    </item>
+    <item 
+        android:id="@+id/action_done" 
+        android:title="@string/action_iorecords"
+      
+        ></item>
+    <item android:id="@+id/action_about" android:title="about"></item>
+
+</menu>
